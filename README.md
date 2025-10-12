@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img width="722" height="360" alt="Surya" src="https://github.com/user-attachments/assets/f1aa637d-05bf-4af8-bde1-82f9a5e19167" />
+
 </p>
 
 ```js
