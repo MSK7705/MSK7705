@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="722" height="360" alt="Surya" src="https://github.com/user-attachments/assets/f1aa637d-05bf-4af8-bde1-82f9a5e19167" />
+  <img width="722" height="360" alt="Image" src="https://github.com/user-attachments/assets/f1aa637d-05bf-4af8-bde1-82f9a5e19167" />
 
 </p>
 
@@ -22,4 +22,4 @@ class Skills extends SoftwareDeveloper {
 ----
 
 
-Last Edited on: 23/09/2020
+Last Edited on: 12/10/2025
