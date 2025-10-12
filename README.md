@@ -14,9 +14,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
+  languages  = ['JavaScript', 'C','Python'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  frameworks = ['React', 'React Native', 'Tailwind', 'Spring Boot'];
 }
 ```
 ----
